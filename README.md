@@ -24,7 +24,7 @@ Full stack programmer 🖥, Computer engineering student👨‍💻
 <br />
 <br />
 
-## My Email: [`Send Message`](https://atilavalizadeh86@gmail.com):email:
+## :envelope_with_arrow:My Email: [`Send Message`](https://atilavalizadeh86@gmail.com):email:
 
 <br />
 <br />
