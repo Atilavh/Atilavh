@@ -31,9 +31,20 @@ Full stack programmer 🖥, Computer engineering student👨‍💻
 
 ## :red_circle:About Me:
 
-```python python
+```python
+From Atila.Vh import About-Me
+
 class About-Me(Me):
-FullName: 'Atila Valizadeh'
+  Givenname = 'Atila'
+  Surname = 'Valizadeh'
+  Nickname = 'Atilavh'
+  Age = 19
+  From the = {
+    'IRAN':'Tabriz City'
+  }
+  Bio = "Hi! Im Atila Valizadeh You can call me atila im from Iran and Tabriz City Im Full stack programmer 🖥,
+  You can contact me on Telegram and Gmail and Sometimes in instagram,
+  I hope you have a good time with me♥️"
 
 ```
 <br />
