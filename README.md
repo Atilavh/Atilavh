@@ -11,7 +11,7 @@ Full stack programmer 🖥, Computer engineering student👨‍💻
 
 <h2 align"right">My Skills💪</h2>
   
-[Figma](https://skillicons.dev/icons?i=figma&theme=light)
+[![Figma](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
 [Python](https://skillicons.dev/icons?i=py)
 
 
