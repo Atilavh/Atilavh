@@ -17,7 +17,6 @@ Full stack programmer 🖥, Computer engineering student👨‍💻
 [![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![Html](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 [![Md](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
