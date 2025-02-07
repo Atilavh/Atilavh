@@ -11,21 +11,21 @@ Full stack programmer 🖥, Computer engineering student👨‍💻
 
 <h2 align"right">My Skills💪</h2>
   
-[![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 [![AiScript](https://skillicons.dev/icons?i=aiscript)](https://skillicons.dev)
 [![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-[![Md](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
-[![Mysql](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![Postgres](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 [![Notion](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 [![Pycharm](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)
+[![Mysql](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Postgres](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
 [![Wordpress](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
+[![Md](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
 
 <br />
 
