@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi! Im Atila Valizadeh🖐</h2>
 <p align="center">
-Full stack programmer 🖥, Computer engineering student👨‍💻 
+BackEnd programmer 🖥, Computer engineering student👨‍💻 
 </p>
 
 <br />
