@@ -66,8 +66,8 @@ class About-Me(Me):
 
 <h2 align="left">What am I doing now?🌚</h2>
 
- <h3 align="left">🌟Development of the lawyer project</h3>
- <h3 align="left">🌟Learn the Javascript</h3>
+ <h3 align="left">🌟Development of the CarTac.ir project</h3>
+ <h3 align="left">🌟Learn the Ai</h3>
 
 <br />
 
